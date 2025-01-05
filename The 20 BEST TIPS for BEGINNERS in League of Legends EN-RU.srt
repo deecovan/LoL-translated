@@ -1,0 +1,3057 @@
+1
+00:00:00,040 --> 00:00:01,839
+League of Legends can be an incredibly
+League of Legends может быть невероятно
+
+2
+00:00:01,839 --> 00:00:04,279
+daunting game to get into as a beginner
+сложной игрой для новичков. В игре
+
+3
+00:00:04,279 --> 00:00:07,480
+there are over 160 Champions five
+более 160 чемпионов, пять
+
+4
+00:00:07,480 --> 00:00:09,440
+different unique roles items and builds
+различных уникальных ролей, предметы и сборки, которые
+
+5
+00:00:09,440 --> 00:00:11,280
+you have to learn a meta you're supposed
+вам нужно изучить. Мета, которую вы должны
+
+6
+00:00:11,280 --> 00:00:13,759
+to somehow know immediately and as a new
+каким-то образом сразу понять, и как новый
+
+7
+00:00:13,759 --> 00:00:15,639
+player it feels like everyone else has
+игрок, вы чувствуете, что все остальные имеют
+
+8
+00:00:15,639 --> 00:00:17,960
+10 years of experience on you well I've
+10 лет опыта, так вот, у меня
+
+9
+00:00:17,960 --> 00:00:19,680
+got some good news you're about to learn
+есть хорошие новости: вы собираетесь узнать
+
+10
+00:00:19,680 --> 00:00:21,920
+the 20 best tips for beginners that will
+20 лучших советов для новичков, которые
+
+11
+00:00:21,920 --> 00:00:23,720
+supercharge your improvement.
+дадут толчок вашему развитию.
+
+36
+00:01:11,439 --> 00:01:13,439
+So let's start
+Итак, начнем
+
+37
+00:01:13,439 --> 00:01:15,119
+well at the start of the game the first
+с самого начала игры. Первое,
+
+38
+00:01:15,119 --> 00:01:16,600
+thing you need to be aware of as a
+что вам нужно знать как
+
+39
+00:01:16,600 --> 00:01:19,159
+beginner are jungler starting locations
+новичку, это начальные локации джунглей.
+
+40
+00:01:19,159 --> 00:01:20,799
+wherever a jungler starts they're going
+Где бы ни начинал джунгли, они
+
+41
+00:01:20,799 --> 00:01:22,680
+to be pathing to the opposite side of
+будут двигаться к противоположному сторону
+
+42
+00:01:22,680 --> 00:01:24,680
+the map as they clear their camps this
+карты, поскольку они зачищают свои лагеря, это
+
+43
+00:01:24,680 --> 00:01:26,119
+results in them having a very
+приводит к тому, что у них очень
+
+44
+00:01:26,119 --> 00:01:28,280
+predictable gang timing at the end at
+предсказуемый тайминг в конце, в то
+
+45
+00:01:28,280 --> 00:01:29,680
+the same time their camps are going to
+же время их лагеря
+
+46
+00:01:29,680 --> 00:01:32,079
+be respawning in that same order causing
+будут возрождаться в том же порядке, заставляя
+
+47
+00:01:32,079 --> 00:01:33,840
+them to once again path towards that
+их снова двигаться к этой
+
+48
+00:01:33,840 --> 00:01:35,600
+side of the map resulting in another
+стороне карты, в результате чего  В другом
+
+49
+00:01:35,600 --> 00:01:37,600
+gank this creates a concept that's known
+ганке это создает концепцию, известную
+
+50
+00:01:37,600 --> 00:01:39,600
+as the strong side and weak side if a
+как сильная сторона и слабая сторона, если
+
+51
+00:01:39,600 --> 00:01:41,240
+jungler starts on the bottom side then
+лесник начинает на нижней стороне, то
+
+52
+00:01:41,240 --> 00:01:42,920
+the bottom half of the map is considered
+нижняя половина карты считается
+
+53
+00:01:42,920 --> 00:01:44,479
+the weak side for that team since he'll
+слабой стороной для этой команды, так как он
+
+54
+00:01:44,479 --> 00:01:46,439
+be ganking there less often whereas the
+будет ганкать там реже, тогда как
+
+55
+00:01:46,439 --> 00:01:48,280
+top side is considered the strong side
+Верхняя сторона считается сильной стороной
+
+56
+00:01:48,280 --> 00:01:50,000
+for their team since they'll be ganking
+для их команды, так как они будут
+
+57
+00:01:50,000 --> 00:01:51,680
+there more often the trick you want to
+чаще всего там гангать, трюк, который вам нужен  для
+
+58
+00:01:51,680 --> 00:01:53,680
+implement into your games is to identify
+внедрения в ваши игры необходимо определить
+
+59
+00:01:53,680 --> 00:01:55,920
+the enemy jungler starting location you
+начальное местоположение вражеского лесника. Вы
+
+60
+00:01:55,920 --> 00:01:57,520
+can do this by paying attention to the S
+можете сделать это, обращая внимание на
+
+61
+00:01:57,520 --> 00:01:59,240
+side Lanes at the start of every game
+линии южной стороны в начале каждой игры.
+
+62
+00:01:59,240 --> 00:02:01,079
+whoever is last to arrive in Lane
+Тот, кто последним прибывает на линию,
+
+63
+00:02:01,079 --> 00:02:02,560
+usually gave their jungler a leash
+обычно дает своему леснику поводок, что
+
+64
+00:02:02,560 --> 00:02:04,119
+letting you predict the jungler's
+позволяет вам предсказать
+
+65
+00:02:04,119 --> 00:02:05,719
+starting location this then lets you
+начальное местоположение лесника.  местоположение это затем позволяет вам
+
+66
+00:02:05,719 --> 00:02:07,560
+know if you're the enemy's weak side or
+узнать, являетесь ли вы слабой или
+
+67
+00:02:07,560 --> 00:02:08,919
+strong side and whether you should be
+сильной стороной врага и следует ли вам
+
+68
+00:02:08,919 --> 00:02:11,000
+anticipating ganks the simple counter to
+ожидать ганков. простой способ противостоять тому, чтобы
+
+69
+00:02:11,000 --> 00:02:12,879
+being the enemy strong side is to place
+быть сильной стороной врага - поставить
+
+70
+00:02:12,879 --> 00:02:15,360
+a ward at 2 minutes and 45 seconds this
+вард на 2 минуты и 45 секунд это
+
+71
+00:02:15,360 --> 00:02:17,160
+will catch all the early gang timings by
+поймает всех ранних гангов
+
+72
+00:02:17,160 --> 00:02:18,640
+the enemy jungler the. next thing you
+вражеским лесником. следующее, что вам
+
+73
+00:02:18,640 --> 00:02:20,599
+need to know is the level two timing
+нужно знать, это тайминги второго уровня.
+
+74
+00:02:20,599 --> 00:02:22,319
+spiking level two while the opponent is
+Прорыв второго уровня, пока противник
+
+75
+00:02:22,319 --> 00:02:24,160
+still Level One is by far the most
+все еще находится на первом уровне, — это, безусловно, самый
+
+76
+00:02:24,160 --> 00:02:25,959
+common and easiest way you're going to
+распространенный и простой способ
+
+77
+00:02:25,959 --> 00:02:27,680
+win or lose your lane this is because
+выиграть или проиграть свою линию, потому что
+
+78
+00:02:27,680 --> 00:02:29,160
+being level two gives you more base
+второй уровень дает вам больше базовых
+
+79
+00:02:29,160 --> 00:02:30,680
+stats over the oppon oent while having
+характеристик по сравнению с противником, а также
+
+80
+00:02:30,680 --> 00:02:32,640
+access to one additional spell over the
+доступ к одному дополнительному заклинанию по сравнению с
+
+81
+00:02:32,640 --> 00:02:34,239
+enemy for this reason you need to know
+врагом, поэтому вам нужно знать
+
+82
+00:02:34,239 --> 00:02:36,160
+the following level two timings for solo
+следующие тайминги второго уровня для
+
+83
+00:02:36,160 --> 00:02:37,599
+laners you'll hit level two on the
+игроков на одиночной линии: вы достигнете второго уровня во
+
+84
+00:02:37,599 --> 00:02:39,519
+second minion wave once the first melee
+второй волне миньонов, как только  первый боец ​​ближнего боя
+
+85
+00:02:39,519 --> 00:02:41,800
+minion dies for bot laners you're going
+умирает для бота.  Игроки на линии, вы
+
+86
+00:02:41,800 --> 00:02:43,159
+to hit level two when you've killed
+достигнете второго уровня, когда убьете
+
+87
+00:02:43,159 --> 00:02:45,200
+three melee minions or two melees and
+трех существ ближнего боя или двух существ ближнего боя и
+
+88
+00:02:45,200 --> 00:02:46,879
+one Caster when players first learn
+одного заклинателя. Когда игроки впервые узнают
+
+89
+00:02:46,879 --> 00:02:48,319
+about these timings they always make the
+об этих сроках, они всегда совершают одну и
+
+90
+00:02:48,319 --> 00:02:49,879
+same mistake they wait until they hit
+ту же ошибку: они ждут, пока не достигнут
+
+91
+00:02:49,879 --> 00:02:51,360
+level two and then they try to go
+второго уровня, а затем пытаются действовать
+
+92
+00:02:51,360 --> 00:02:52,920
+aggressive players are just going to see
+агрессивно.  Игроки просто увидят, как
+
+93
+00:02:52,920 --> 00:02:54,560
+you spike level two and back off and
+вы достигаете второго уровня, а затем отступаете и
+
+94
+00:02:54,560 --> 00:02:56,080
+play safe so the skill you want to
+играете наверняка, поэтому навык, который вам нужно
+
+95
+00:02:56,080 --> 00:02:57,640
+develop is positioning yourself so
+развить, — это позиционирование себя так, чтобы
+
+96
+00:02:57,640 --> 00:02:59,440
+you're within engage range before you
+вы оказались в зоне поражения до того, как
+
+97
+00:02:59,440 --> 00:03:01,200
+hit Level two so you can instantly
+достигнете второго уровня, чтобы вы могли мгновенно
+
+98
+00:03:01,200 --> 00:03:02,920
+punish the enemy once you get better you
+наказать врага, как только станете лучше.
+
+99
+00:03:02,920 --> 00:03:04,599
+can even time your engage slightly
+можно даже немного рассчитать время вступления в бой
+
+100
+00:03:04,599 --> 00:03:06,159
+before you hit Level Two so then you
+до того, как вы достигнете второго уровня, чтобы затем
+
+101
+00:03:06,159 --> 00:03:08,080
+level up during the fight so now you're
+повышать свой уровень во время боя, так что теперь вы
+
+102
+00:03:08,080 --> 00:03:09,280
+wondering should you be fighting for
+задаетесь вопросом, следует ли вам сражаться за
+
+103
+00:03:09,280 --> 00:03:11,360
+level two every single time then well
+второй уровень каждый раз, тогда
+
+104
+00:03:11,360 --> 00:03:13,319
+yes but only if you're in a ranged vers
+да, но только если вы в дальнем
+
+105
+00:03:13,319 --> 00:03:15,360
+ranged or melee vers melee matchup
+бою или  Ближний бой против ближнего боя, дальний
+
+106
+00:03:15,360 --> 00:03:17,440
+ranged vers melee matchups are unique
+бой против ближнего боя уникальны,
+
+107
+00:03:17,440 --> 00:03:19,440
+and something you must learn a super
+и вам следует усвоить одну очень
+
+108
+00:03:19,440 --> 00:03:21,200
+common beginner mistake is to try and
+распространенную ошибку новичков — пытаться
+
+109
+00:03:21,200 --> 00:03:23,120
+fight for the push as the melee Champion
+бороться за натиск в качестве чемпиона ближнего боя.
+
+110
+00:03:23,120 --> 00:03:25,000
+you're going to get destroyed if you do
+Если вы это сделаете, вас уничтожат. Тот
+
+111
+00:03:25,000 --> 00:03:26,640
+this the fact that the range Champion
+факт, что чемпион дальнего боя
+
+112
+00:03:26,640 --> 00:03:28,439
+has access to a ranged Auto attack at
+имеет  доступ к дистанционной автоатаке на
+
+113
+00:03:28,439 --> 00:03:30,360
+level one while you only have access to
+первом уровне, пока у вас есть доступ только к
+
+114
+00:03:30,360 --> 00:03:32,280
+one spell means trying to hit level two
+одному заклинанию, означает попытку  попадание на второй уровень
+
+115
+00:03:32,280 --> 00:03:33,680
+more often than not results in you
+чаще всего приводит к
+
+116
+00:03:33,680 --> 00:03:35,599
+losing all of your health instead the
+потере всего здоровья, вместо этого
+
+117
+00:03:35,599 --> 00:03:37,159
+default game plan if you're the melee
+стандартный план игры, если вы
+
+118
+00:03:37,159 --> 00:03:39,200
+Champion is to sit back conserve your
+чемпион ближнего боя, заключается в том, чтобы сидеть сложа руки и беречь
+
+119
+00:03:39,200 --> 00:03:40,879
+health even giving up last hits if
+здоровье, даже отказываясь от последних ударов, если это
+
+120
+00:03:40,879 --> 00:03:42,439
+needed you then wait until the minions
+необходимо, а затем ждать, пока миньоны не
+
+121
+00:03:42,439 --> 00:03:44,239
+crash into your Tower and then once you
+врежутся в вас.  Башня, а затем, как только вы
+
+122
+00:03:44,239 --> 00:03:45,599
+hit Level three you'll have all your
+достигнете третьего уровня, у вас будут все ваши
+
+123
+00:03:45,599 --> 00:03:47,959
+basic abilities and a full health pool
+основные способности и полный запас здоровья, это
+
+124
+00:03:47,959 --> 00:03:49,000
+that's your time to start going
+ваше время, чтобы начать действовать
+
+125
+00:03:49,000 --> 00:03:50,480
+aggressive which works more often than
+агрессивно, что срабатывает чаще, чем
+
+126
+00:03:50,480 --> 00:03:52,200
+not due to the enemy range Champion
+нет, поскольку вражеский Чемпион на расстоянии
+
+127
+00:03:52,200 --> 00:03:53,920
+being super pushed up the lane now
+сильно оттеснен на линию, теперь
+
+128
+00:03:53,920 --> 00:03:55,519
+you're probably wondering well what is
+вы  вероятно, вам интересно, что же
+
+129
+00:03:55,519 --> 00:03:57,439
+the range Champion supposed to do then
+должен делать чемпион дальнего боя, тогда
+
+130
+00:03:57,439 --> 00:03:58,640
+well this is the next thing you need to
+это следующее, что вам нужно
+
+131
+00:03:58,640 --> 00:04:00,640
+know rebounds a rebound happens when you
+знать: отскоки отскок происходит, когда вы
+
+132
+00:04:00,640 --> 00:04:03,040
+push a wave into a tower 99% of the time
+толкаете волну в башню, в 99% случаев
+
+133
+00:04:03,040 --> 00:04:04,360
+it's going to cause the minions to then
+это заставит миньонов затем
+
+134
+00:04:04,360 --> 00:04:05,920
+push back towards you this is where the
+оттеснить ее назад  отсюда и
+
+135
+00:04:05,920 --> 00:04:07,079
+name comes from it's like you're
+название, это как будто вы
+
+136
+00:04:07,079 --> 00:04:09,000
+rebounding the minions off the tower the
+отбрасываете миньонов от башни,
+
+137
+00:04:09,000 --> 00:04:10,560
+reason this happens is that the next
+причина этого в том, что следующая
+
+138
+00:04:10,560 --> 00:04:12,239
+incoming wave will start damaging the
+входящая волна начнет наносить урон
+
+139
+00:04:12,239 --> 00:04:14,120
+wave much sooner since it's closer to
+волне гораздо раньше, так как она находится ближе к
+
+140
+00:04:14,120 --> 00:04:16,000
+that side of the map the only time it
+этой стороне карты, единственный раз, когда она это
+
+141
+00:04:16,000 --> 00:04:17,720
+doesn't rebound is when the wave gets
+делает.  Отскок — это когда волна
+
+142
+00:04:17,720 --> 00:04:19,720
+cleared before the next wave gets stuck
+очищается до того, как на ней застрянет следующая волна,
+
+143
+00:04:19,720 --> 00:04:21,839
+on it this is called a reset as the wave
+это называется  сброс, так как волна
+
+144
+00:04:21,839 --> 00:04:23,560
+now goes back to neutral at the center
+теперь возвращается к нейтральному положению в центре
+
+145
+00:04:23,560 --> 00:04:25,560
+of the lane so in a Range first melee
+линии, поэтому в первом ближнем бою на дистанции,
+
+146
+00:04:25,560 --> 00:04:27,280
+matchup when the range Champion crashes
+когда чемпион на дистанции разбивает
+
+147
+00:04:27,280 --> 00:04:29,000
+the wave they can know a rebound is
+волну, он может знать, что
+
+148
+00:04:29,000 --> 00:04:30,680
+going to happen this means it's now
+произойдет отскок, это означает, что теперь
+
+149
+00:04:30,680 --> 00:04:32,120
+their turn to play safe giving up
+его очередь играть безопасно, сдаваясь
+
+150
+00:04:32,120 --> 00:04:34,199
+minions as needed as it bounces back to
+миньонов по мере необходимости, поскольку он отскакивает к
+
+151
+00:04:34,199 --> 00:04:36,199
+them to a safer position or if they got
+ним в более безопасную позицию или, если у них
+
+152
+00:04:36,199 --> 00:04:37,840
+the melee Champion low they can use it
+низкий уровень Чемпиона ближнего боя, они могут использовать его,
+
+153
+00:04:37,840 --> 00:04:39,360
+to set up a Kill by forcing them to
+чтобы подготовить убийство, заставив их
+
+154
+00:04:39,360 --> 00:04:41,560
+overextend for last hits rebounds go way
+слишком сильно вытягиваться для последних ударов, хотя отскоки выходят далеко
+
+155
+00:04:41,560 --> 00:04:43,039
+beyond that though as they're basically
+за рамки этого, поскольку они в основном
+
+156
+00:04:43,039 --> 00:04:44,800
+what will let you leave Lane need to
+то, что  позволит вам покинуть линию, нужно
+
+157
+00:04:44,800 --> 00:04:46,960
+recall well push the wave which sets up
+вспомнить, хорошо, толкнуть волну, которая создает
+
+158
+00:04:46,960 --> 00:04:48,759
+a rebound now you can recall and as you
+отскок, теперь вы можете вспомнить, и когда вы
+
+159
+00:04:48,759 --> 00:04:50,240
+head back to Lane the wave is bouncing
+направляетесь обратно на линию, волна отражается
+
+160
+00:04:50,240 --> 00:04:52,000
+back to you so you miss practically no
+обратно к вам, так что вы практически не пропускаете
+
+161
+00:04:52,000 --> 00:04:54,440
+minions want to roam again push the wave
+миньонов, которые хотят снова бродить, толкнуть волну,
+
+162
+00:04:54,440 --> 00:04:56,160
+first go off and Roam and then head back
+сначала идите  и бродите, а затем возвращайтесь
+
+163
+00:04:56,160 --> 00:04:57,560
+to Lane with the wave pushing back to
+на линию с волной, которая отталкивает
+
+164
+00:04:57,560 --> 00:04:59,479
+you missing very few minions now you
+вас, теряя очень мало миньонов. Теперь вы
+
+165
+00:04:59,479 --> 00:05:01,080
+might be thinking so does that mean each
+можете подумать: «Значит ли это, что каждый
+
+166
+00:05:01,080 --> 00:05:02,919
+person is just taking turns rebounding
+человек просто по очереди отражает
+
+167
+00:05:02,919 --> 00:05:05,000
+waves to one another well honestly yeah
+волны друг на друга?» Ну, честно говоря, да,
+
+168
+00:05:05,000 --> 00:05:06,919
+a lot of lanes do end up feeling turnbas
+многие линии в конечном итоге  чувствую себя
+
+169
+00:05:06,919 --> 00:05:08,360
+like that but there is one exception
+так, но есть одно исключение -
+
+170
+00:05:08,360 --> 00:05:10,320
+freezing freezing is one of the most
+замерзание, замерзание - это  одна из самых
+
+171
+00:05:10,320 --> 00:05:12,080
+misunderstood things in League at its
+непонятных вещей в Лиге по своей
+
+172
+00:05:12,080 --> 00:05:13,919
+core it is simple you just make sure the
+сути проста: вы просто делаете так, чтобы у
+
+173
+00:05:13,919 --> 00:05:15,400
+enemy has around four to five more
+врага было на четыре-пять
+
+174
+00:05:15,400 --> 00:05:17,160
+minions than your wave and you can just
+миньонов больше, чем у вашей волны, и вы можете просто
+
+175
+00:05:17,160 --> 00:05:18,800
+permanently keep the wave Frozen in
+навсегда заморозить волну
+
+176
+00:05:18,800 --> 00:05:20,520
+front of your Tower what new players get
+перед своей Башней. Что делают новые игроки,
+
+177
+00:05:20,520 --> 00:05:22,080
+wrong when they first learn this is they
+когда ошибаются?  Сначала они узнают об этом, когда
+
+178
+00:05:22,080 --> 00:05:23,680
+try to freeze as a way to keep
+пытаются заморозить себя, чтобы
+
+179
+00:05:23,680 --> 00:05:25,639
+themselves safe this is impossible if
+обезопасить себя. Это невозможно, если
+
+180
+00:05:25,639 --> 00:05:27,039
+you're losing the enem is just going to
+вы проигрываете, враг просто
+
+181
+00:05:27,039 --> 00:05:28,880
+be able to walk up push the wave and you
+сможет подойти и оттолкнуть волну, и вы
+
+182
+00:05:28,880 --> 00:05:30,639
+can't fight them and instead freezing is
+не сможете с ними сражаться, и вместо этого замораживание будет
+
+183
+00:05:30,639 --> 00:05:32,160
+done only when you're the one with the
+выполнено.  только когда вы тот, у кого есть
+
+184
+00:05:32,160 --> 00:05:33,960
+lead this is because it forces the enemy
+преимущество, это происходит потому, что это заставляет врага
+
+185
+00:05:33,960 --> 00:05:35,600
+to have to overextend to last hit
+слишком долго растягиваться, чтобы нанести последний удар
+
+186
+00:05:35,600 --> 00:05:37,039
+minions at which point you can fight
+миньонам, в этот момент вы можете сражаться с
+
+187
+00:05:37,039 --> 00:05:38,800
+them with your lead often killing them
+ними, используя свое преимущество, часто убивая их
+
+188
+00:05:38,800 --> 00:05:40,560
+or if they don't extend they just bleed
+или, если они не растягиваются, они просто истекают кровью
+
+189
+00:05:40,560 --> 00:05:42,120
+out a ton of farm over time to the
+тонна фарма со временем до
+
+190
+00:05:42,120 --> 00:05:43,680
+freeze and speaking of fighting a
+заморозки и говоря о сражениях,
+
+191
+00:05:43,680 --> 00:05:45,080
+beginner mistake players make is
+ошибка новичков -
+
+192
+00:05:45,080 --> 00:05:47,039
+fighting way too much the concept you
+слишком много сражений, концепция, которую вам
+
+193
+00:05:47,039 --> 00:05:48,880
+need to know to fix this is called
+нужно знать, чтобы исправить это, называется мертвое время.
+
+---//---
+
+194
+00:05:48,880 --> 00:05:50,560
+Dead time dead time is the period of time
+Мертвое время - это период времени,
+
+195
+00:05:50,560 --> 00:05:52,080
+when either all your jungle camps are
+когда все ваши лагеря в джунглях
+
+196
+00:05:52,080 --> 00:05:53,919
+dead or the minions in Lane are dead and
+мертвы  или миньоны на Лейн мертвы, и
+
+197
+00:05:53,919 --> 00:05:55,199
+you're waiting for the next wave to
+вы ждете прибытия следующей волны,
+
+198
+00:05:55,199 --> 00:05:57,000
+arrive this is the most efficient time
+это самое эффективное время
+
+199
+00:05:57,000 --> 00:05:58,560
+for you to fight since you're not giving
+для вас  сражаться, так как вы не
+
+200
+00:05:58,560 --> 00:06:00,280
+up any gold or experience from those
+теряете ни золота, ни опыта от этих
+
+201
+00:06:00,280 --> 00:06:02,080
+minions or Monsters I know that it feels
+миньонов или монстров. Я знаю, что кажется,
+
+202
+00:06:02,080 --> 00:06:03,440
+like if you don't react to a fight
+что если вы не реагируете на бой, то
+
+203
+00:06:03,440 --> 00:06:04,560
+you're going to fall behind from the
+вы отстаете от
+
+204
+00:06:04,560 --> 00:06:06,160
+enemy getting kills but this is a
+врагов, получая убийства, но это
+
+205
+00:06:06,160 --> 00:06:08,000
+misconception in the early game simply
+заблуждение.  В начале игры простая
+
+206
+00:06:08,000 --> 00:06:10,039
+farming one wave and one turret plate is
+фармка одной волны и одной башенной пластины
+
+207
+00:06:10,039 --> 00:06:11,680
+nearly worth the same as a kill in the
+почти равноценна убийству в
+
+208
+00:06:11,680 --> 00:06:13,280
+mid to late game if someone leaves an
+середине и конце игры, если кто-то оставляет
+
+209
+00:06:13,280 --> 00:06:15,759
+inner turret undefended that's 700 gold
+внутреннюю башню незащищенной, то это стоит 700 золотых
+
+210
+00:06:15,759 --> 00:06:17,520
+from the tower and just two waves on top
+с башни, а всего две волны сверху — это
+
+211
+00:06:17,520 --> 00:06:19,840
+of that equals 300 gold so suddenly
+300 золотых.  так что внезапно
+
+212
+00:06:19,840 --> 00:06:21,520
+simply pushing two waves and taking a
+просто продвинуть две волны и захватить
+
+213
+00:06:21,520 --> 00:06:23,319
+tower is more than getting three kills
+башню становится больше, чем получить три убийства,
+
+214
+00:06:23,319 --> 00:06:25,199
+worth of gold as a beginner you really
+приносящих золото, как новичок, вам действительно
+
+215
+00:06:25,199 --> 00:06:26,639
+shouldn't be fighting outside of your
+не следует сражаться вне своего
+
+216
+00:06:26,639 --> 00:06:28,280
+dead time you learn as you get better
+мертвого времени, вы узнаете по мере того, как становитесь лучше,
+
+217
+00:06:28,280 --> 00:06:29,759
+the exceptions to the rule the other
+исключения из правил, другая
+
+218
+00:06:29,759 --> 00:06:31,440
+mistake you want to avoid is staying on
+ошибка, которую вы хотите  избегать
+
+219
+00:06:31,440 --> 00:06:33,039
+the map for too long when you have
+слишком долгого пребывания на карте, когда у вас есть
+
+220
+00:06:33,039 --> 00:06:34,919
+unspent gold it's really easy to make
+неизрасходованное золото; эту ошибку очень легко совершить,
+
+221
+00:06:34,919 --> 00:06:36,240
+this mistake since you'll be on the map
+так как вы будете на карте,
+
+222
+00:06:36,240 --> 00:06:37,680
+getting a ton of kills and feel like
+совершая кучу убийств и чувствуя себя
+
+223
+00:06:37,680 --> 00:06:38,919
+you're stronger than the enemy but
+сильнее врага, но
+
+224
+00:06:38,919 --> 00:06:40,440
+unless you spend that gold you're
+если вы не потратите это золото  золото,
+
+225
+00:06:40,440 --> 00:06:42,240
+actually weaker since by killing them
+на самом деле вы слабее, так как убивая их,
+
+226
+00:06:42,240 --> 00:06:43,880
+they got to go back to base and spend
+они получают  вернуться на базу, потратить
+
+227
+00:06:43,880 --> 00:06:45,720
+their gold and get a stat Advantage by
+свое золото и получить преимущество в характеристиках,
+
+228
+00:06:45,720 --> 00:06:47,560
+purchasing items a really good rule of
+покупая предметы. Действительно хорошее правило, которому стоит
+
+229
+00:06:47,560 --> 00:06:49,120
+thumb to follow is to start planning
+следовать, — начать планировать
+
+230
+00:06:49,120 --> 00:06:51,479
+your recall once you pass 1,000 gold a
+свой отзыв, как только вы преодолеете отметку в 1000 золота.
+
+231
+00:06:51,479 --> 00:06:53,120
+lot of items are around that amount like
+Многие предметы стоят примерно столько же, например,
+
+232
+00:06:53,120 --> 00:06:54,960
+faded ashes and serrated Dirk for
+выцветший пепел и зазубренный кортик.
+
+233
+00:06:54,960 --> 00:06:57,080
+example that being said as you get more
+например, как было сказано, по мере того, как вы получаете больше
+
+234
+00:06:57,080 --> 00:06:58,800
+experience you want to identify your
+опыта, вы хотите определить свой
+
+235
+00:06:58,800 --> 00:07:00,960
+next item SP and recall once you pass
+следующий предмет SP и вспомнить, как только вы пройдете
+
+236
+00:07:00,960 --> 00:07:03,120
+that amount so for a lot of Mages mid
+это количество, так что для многих Магов в середине
+
+237
+00:07:03,120 --> 00:07:05,319
+that would be lost chapter at 1,200 gold
+это будет потерянная глава на 1200 золота,
+
+238
+00:07:05,319 --> 00:07:07,720
+for example or hextech alternator at
+например, или хекстековый генератор на
+
+239
+00:07:07,720 --> 00:07:09,840
+1100 or for a lot of bruisers that can
+1100 или для  много громил, которые могут
+
+240
+00:07:09,840 --> 00:07:12,039
+be Tiamat at 12200 and another mistake
+быть Тиамат на 12200 и еще одна ошибка, на которую следует
+
+241
+00:07:12,039 --> 00:07:13,199
+to look out for when it comes to
+обратить внимание, когда дело доходит до
+
+242
+00:07:13,199 --> 00:07:15,120
+recalling is getting baited by turret
+отзыва, это попадание на приманку в виде башенных
+
+243
+00:07:15,120 --> 00:07:16,960
+plates early on a lot of the time when
+пластин в самом начале, когда
+
+244
+00:07:16,960 --> 00:07:18,560
+newer players find out turret plates
+новые игроки узнают, что башенные пластины
+
+245
+00:07:18,560 --> 00:07:21,080
+give 125 gold each well they end up
+дают 125 золота за каждую, которую они в конечном итоге
+
+246
+00:07:21,080 --> 00:07:22,720
+throwing their whole Lane trying to get
+бросают  Вся их линия пытается
+
+247
+00:07:22,720 --> 00:07:24,599
+one this happens most often after you
+его получить, это чаще всего происходит после того, как вы
+
+248
+00:07:24,599 --> 00:07:26,319
+get a kill on your lane opponent you'll
+убиваете противника на линии, вы
+
+249
+00:07:26,319 --> 00:07:27,919
+figure hey they're dead and despite
+думаете, что он мертв, и несмотря на то, что у вас
+
+250
+00:07:27,919 --> 00:07:29,199
+sitting on a lot of gold and being low
+много золота и мало
+
+251
+00:07:29,199 --> 00:07:31,240
+on resources like health and Mana you'll
+ресурсов, таких как здоровье и мана,  Вы
+
+252
+00:07:31,240 --> 00:07:32,800
+mistakenly think you have enough time to
+ошибочно подумаете, что у вас достаточно времени, чтобы
+
+253
+00:07:32,800 --> 00:07:34,440
+take that turret plate and then recall
+захватить эту башенную пластину, а затем вернуться
+
+254
+00:07:34,440 --> 00:07:36,360
+after but death timers are very short
+обратно, но таймеры смерти очень короткие
+
+255
+00:07:36,360 --> 00:07:38,240
+early on and when you die you get home
+поначалу, и когда вы умираете, вы получаете домашних
+
+256
+00:07:38,240 --> 00:07:39,680
+guards which gets you back to Lane
+стражей, которые очень быстро возвращают вас на Лейн,
+
+257
+00:07:39,680 --> 00:07:41,800
+really fast so by staying for that plate
+поэтому, оставаясь на этой пластине,
+
+258
+00:07:41,800 --> 00:07:43,639
+you'll end up low on resources stuck in
+вы...  В итоге у вас будет мало ресурсов, и вы застрянете на
+
+259
+00:07:43,639 --> 00:07:45,960
+lane or having to recall on a bad timing
+линии или вам придется отозвать их в неудачный момент.
+
+260
+00:07:45,960 --> 00:07:47,960
+now our final tip in the laning phase is
+Наш последний совет по фазе игры на линии заключается в том,
+
+261
+00:07:47,960 --> 00:07:50,159
+that speed really matters in league for
+что скорость действительно имеет значение в лиге,
+
+262
+00:07:50,159 --> 00:07:52,360
+example here Talia is going to be simply
+например, здесь Талия будет просто
+
+263
+00:07:52,360 --> 00:07:54,440
+better and thus faster at clearing her
+лучше и, следовательно, быстрее зачищать свои
+
+264
+00:07:54,440 --> 00:07:56,319
+jungle than the enemy Master ye the
+леса, чем  враг Мастер Йе, в
+
+265
+00:07:56,319 --> 00:07:58,319
+result of this is Talia is able to fully
+результате Талия может полностью
+
+266
+00:07:58,319 --> 00:08:00,360
+clear all six camps in her jungle in the
+очистить все шесть лагерей в своих джунглях за
+
+267
+00:08:00,360 --> 00:08:02,199
+same time Master ye could only clear
+одно и то же время, Мастер Йе может очистить только
+
+268
+00:08:02,199 --> 00:08:04,000
+five this means when they both arrive
+пять, это означает, что когда они оба прибудут
+
+269
+00:08:04,000 --> 00:08:06,280
+top Talia is an entire level up from
+наверх, Талия будет на целый уровень выше
+
+270
+00:08:06,280 --> 00:08:08,319
+that extra camp this not only denies
+того дополнительного лагеря, это не  только лишает
+
+271
+00:08:08,319 --> 00:08:10,680
+Master ye a gank on top but also gets
+Мастера Йе возможности атаковать сверху, но и заставляет
+
+272
+00:08:10,680 --> 00:08:12,360
+him low while then giving Talia the
+его упасть снизу, а затем дает Талии «
+
+273
+00:08:12,360 --> 00:08:14,120
+Scuttle which ends up turning into an
+Скатл», который в итоге превращается в
+
+274
+00:08:14,120 --> 00:08:16,240
+easy kill all of this was made possible
+легкое убийство. Все это стало возможным
+
+275
+00:08:16,240 --> 00:08:18,080
+simply due to the fact that Talia spent
+просто благодаря тому, что Талия потратила
+
+276
+00:08:18,080 --> 00:08:20,520
+time optimizing her clear and so was
+время на оптимизацию своего зачистки и поэтому была
+
+277
+00:08:20,520 --> 00:08:22,400
+just faster side note this is why we
+просто быстрее.  Примечание: вот почему мы
+
+278
+00:08:22,400 --> 00:08:24,199
+created a course teaching the fastest
+создали курс, обучающий самому быстрому
+
+279
+00:08:24,199 --> 00:08:25,840
+way to clear on each Champion it's
+способу прохождения каждого Чемпиона.
+
+280
+00:08:25,840 --> 00:08:27,759
+extremely effective for climbing ranks
+чрезвычайно эффективно для повышения рангов;
+
+281
+00:08:27,759 --> 00:08:29,159
+there are many ways you can save time in
+есть много способов сэкономить время в
+
+282
+00:08:29,159 --> 00:08:30,560
+leagues though it's not just jungle
+лигах, хотя это касается не только
+
+283
+00:08:30,560 --> 00:08:32,679
+clears for example if your Champion can
+зачистки джунглей; например, если ваш Чемпион может
+
+284
+00:08:32,679 --> 00:08:34,240
+One-Shot the Caster minions with an
+одним ударом убить существ-Заклинателей с помощью
+
+285
+00:08:34,240 --> 00:08:36,120
+ability it can often be better to move
+способности, то зачастую лучше переместиться
+
+286
+00:08:36,120 --> 00:08:37,839
+as far up the lane as you can to then
+как можно дальше по линии.  Затем можно
+
+287
+00:08:37,839 --> 00:08:39,839
+cast the ability on the melee minions
+применить эту способность на существ ближнего боя,
+
+288
+00:08:39,839 --> 00:08:41,599
+then once the wave meets you can hit the
+а затем, как только волна встретится, вы сможете поразить
+
+289
+00:08:41,599 --> 00:08:43,719
+entire wave clearing it all at once this
+всю волну, зачистив ее всю сразу, это
+
+290
+00:08:43,719 --> 00:08:45,480
+will then give you extra time between
+даст вам дополнительное время между
+
+291
+00:08:45,480 --> 00:08:47,320
+waves you can use to roam recoil or
+волнами, которое вы можете использовать, чтобы быстрее перемещаться по отскоку или
+
+292
+00:08:47,320 --> 00:08:49,320
+pressure Towers faster in fact one of
+давить на башни. Фактически, это одно из
+
+293
+00:08:49,320 --> 00:08:50,959
+the best ways to be faster isn't
+Лучший способ быть быстрее — это не
+
+294
+00:08:50,959 --> 00:08:52,480
+mechanical but actually with
+механика, а принятие
+
+295
+00:08:52,480 --> 00:08:55,000
+decision-making for example here Talia
+решений. Например, здесь Талия
+
+296
+00:08:55,000 --> 00:08:57,160
+is reacting to a possible fight but by
+реагирует на возможную драку, но,
+
+297
+00:08:57,160 --> 00:08:58,880
+recognizing and accepting the fight is
+осознавая и принимая, что драка
+
+298
+00:08:58,880 --> 00:09:00,839
+lost early on it means she's pivoting to
+проиграна на ранней стадии, она переключается на
+
+299
+00:09:00,839 --> 00:09:02,800
+her next source of gold way faster than
+следующий источник золота гораздо быстрее, чем
+
+300
+00:09:02,800 --> 00:09:04,519
+if she was tunneling on the fight and
+если бы  она вела бой и
+
+301
+00:09:04,519 --> 00:09:06,480
+trying to get a kill thus generating
+пыталась убить противника, тем самым принося
+
+302
+00:09:06,480 --> 00:09:08,839
+more gold per second for her honestly if
+ему больше золота в секунду. Честно говоря, если
+
+303
+00:09:08,839 --> 00:09:10,800
+you just go for guaranteed gold while
+вы просто будете стремиться к гарантированному золоту,
+
+304
+00:09:10,800 --> 00:09:12,600
+focusing on being faster at doing it
+сосредоточившись на том, чтобы делать это быстрее,
+
+305
+00:09:12,600 --> 00:09:14,040
+you're going to be miles ahead of your
+вы будете на много миль впереди своих
+
+306
+00:09:14,040 --> 00:09:16,200
+opponents now let's get into mechanics
+противников. Теперь перейдем к делу.  в механике
+
+307
+00:09:16,200 --> 00:09:18,360
+there are five mechanics as a beginner
+есть пять механик, которые новичок
+
+308
+00:09:18,360 --> 00:09:20,360
+you must know first is that in League
+должен знать в первую очередь  что в Лиге
+
+309
+00:09:20,360 --> 00:09:21,880
+clicking closer to your Champion gives
+нажатие ближе к вашему Чемпиону дает
+
+310
+00:09:21,880 --> 00:09:23,839
+you a big Edge over your opponent this
+вам большое Преимущество над вашим противником, это
+
+311
+00:09:23,839 --> 00:09:25,480
+is because when a skill shot is thrown
+потому, что когда в вас направлен искусный выстрел,
+
+312
+00:09:25,480 --> 00:09:27,079
+at you your mouse has to move less
+вашей мыши приходится перемещаться на меньшее
+
+313
+00:09:27,079 --> 00:09:28,880
+distance to then send a movement command
+расстояние, чтобы затем послать команду движения
+
+314
+00:09:28,880 --> 00:09:30,640
+in a different Direction Compare this to
+в другом направлении. Сравните это с
+
+315
+00:09:30,640 --> 00:09:32,120
+when you're clicking far away and you
+тем, когда вы  повторно нажимая далеко, вы
+
+316
+00:09:32,120 --> 00:09:33,279
+can see how much more distance your
+можете увидеть, насколько большее расстояние должна
+
+317
+00:09:33,279 --> 00:09:35,240
+mouse has to cover and how hard it is to
+преодолеть ваша мышь и насколько сложно
+
+318
+00:09:35,240 --> 00:09:37,360
+dodge abilities of course if you have to
+уклониться от способностей. Конечно, если вам нужно провести
+
+319
+00:09:37,360 --> 00:09:39,560
+Auto attack or cast a spell further away
+автоматическую атаку или применить заклинание на большем расстоянии,
+
+320
+00:09:39,560 --> 00:09:41,200
+that's fine but for movement commands
+это нормально, но для команд движения
+
+321
+00:09:41,200 --> 00:09:42,760
+you typically want to keep them close to
+вы обычно хотите сохранить  они находятся близко к
+
+322
+00:09:42,760 --> 00:09:44,480
+your Champion the next mechanic you need
+вашему Чемпиону. Следующая механика, которую вам нужно
+
+323
+00:09:44,480 --> 00:09:46,399
+to be using is sending movement commands
+использовать, — это отправка команд движения
+
+324
+00:09:46,399 --> 00:09:48,480
+between Auto attacks your auto attack
+между автоатаками. Анимация вашей автоатаки
+
+325
+00:09:48,480 --> 00:09:50,399
+has two parts to its animation the wind
+состоит из двух частей: замах
+
+326
+00:09:50,399 --> 00:09:52,480
+up and the wind down the animation up
+и торможение. Анимация
+
+327
+00:09:52,480 --> 00:09:54,279
+until the projectile releases is the
+до момента, когда снаряд выпускается, — это
+
+328
+00:09:54,279 --> 00:09:56,519
+wind up or for melee Champions up until
+замах или ближний бой.  Чемпионы, пока
+
+329
+00:09:56,519 --> 00:09:58,440
+you do damage to the enemy it's really
+вы не нанесете урон врагу, очень
+
+330
+00:09:58,440 --> 00:10:00,040
+bad to send a movement command during
+плохо отправлять команду движения в
+
+331
+00:10:00,040 --> 00:10:01,760
+this time since it's going to cancel
+это время, так как это отменит
+
+332
+00:10:01,760 --> 00:10:03,800
+your auto attack and do no damage the
+вашу автоматическую атаку и не нанесет урона
+
+333
+00:10:03,800 --> 00:10:05,200
+animation that plays after the
+анимации, которая воспроизводится после
+
+334
+00:10:05,200 --> 00:10:06,959
+projectile releases or the damage is
+выпуска снаряда или
+
+335
+00:10:06,959 --> 00:10:09,160
+applied as a melee Champion is the wind
+нанесения урона, поскольку Чемпион ближнего боя
+
+336
+00:10:09,160 --> 00:10:11,120
+down animation this can be canceled with
+анимация затухания может быть отменена
+
+337
+00:10:11,120 --> 00:10:13,079
+a movement command and by moving between
+командой движения, и, перемещаясь между
+
+338
+00:10:13,079 --> 00:10:15,040
+our Auto attacks we make ourselves very
+нашими автоматическими атаками, мы делаем себя очень
+
+339
+00:10:15,040 --> 00:10:16,959
+hard to hit and can cover a lot more
+труднодоступными и  может покрыть гораздо большее
+
+340
+00:10:16,959 --> 00:10:18,640
+distance if we're either chasing or
+расстояние, если мы либо преследуем, либо
+
+341
+00:10:18,640 --> 00:10:20,839
+kiing in addition to this you absolutely
+убегаем. В дополнение к этому вы обязательно
+
+342
+00:10:20,839 --> 00:10:22,880
+must use What's called the attack move
+должны использовать то, что называется
+
+343
+00:10:22,880 --> 00:10:25,040
+command this is essential since if you
+командой «атака», это важно, поскольку если вы
+
+344
+00:10:25,040 --> 00:10:26,640
+don't use it if you misclick the ground
+не используете ее, если вы неправильно щелкнете по земле
+
+345
+00:10:26,640 --> 00:10:27,880
+beside an enemy you're going to be
+рядом с врагом, вы  собираетесь
+
+346
+00:10:27,880 --> 00:10:29,839
+walking into them attack moving makes
+войти в них, атака, перемещение, заставит
+
+347
+00:10:29,839 --> 00:10:31,680
+your Champion attack the nearest enemy
+вашего Чемпиона атаковать ближайшего врага,
+
+348
+00:10:31,680 --> 00:10:33,000
+even if you misclick on the ground
+даже если вы неправильно щелкнете по земле
+
+349
+00:10:33,000 --> 00:10:34,800
+beside them there are a few settings
+рядом с ними. Есть несколько настроек,
+
+350
+00:10:34,800 --> 00:10:36,440
+though you need to use for this to work
+хотя вам нужно использовать их для
+
+351
+00:10:36,440 --> 00:10:38,680
+properly first enable attack move on
+правильной работы. Сначала включите атаку, перемещение по
+
+352
+00:10:38,680 --> 00:10:40,360
+cursor this makes you attack the nearest
+курсору, это заставит вас атаковать  Ближайшая
+
+353
+00:10:40,360 --> 00:10:42,040
+Target to your cursor instead of your
+цель к вашему курсору, а не ваш
+
+354
+00:10:42,040 --> 00:10:43,920
+champion this is way better since if you
+чемпион, это намного лучше, так как если у вас
+
+355
+00:10:43,920 --> 00:10:45,360
+don't have this enabled and try to
+это не включено и вы пытаетесь
+
+356
+00:10:45,360 --> 00:10:47,200
+attack an enemy behind someone well
+атаковать врага позади кого-то, то
+
+357
+00:10:47,200 --> 00:10:48,160
+you're just going to be hitting the
+вы просто поразите
+
+358
+00:10:48,160 --> 00:10:50,680
+closest Target to your Champion instead
+ближайшую цель к вашему чемпиону, а
+
+359
+00:10:50,680 --> 00:10:52,920
+next is show attack range this will show
+затем покажете атаку.  range это покажет
+
+360
+00:10:52,920 --> 00:10:54,560
+you a circle around your champion of
+вам круг вокруг вашего чемпиона
+
+361
+00:10:54,560 --> 00:10:56,320
+your attack range every time you press
+вашего диапазона атаки каждый раз, когда вы нажимаете
+
+362
+00:10:56,320 --> 00:10:58,920
+the default attack move bind of a on
+на клавиатуре привязку к атаке по умолчанию,
+
+363
+00:10:58,920 --> 00:11:00,800
+your keyboard this is really helpful
+это действительно полезно,
+
+364
+00:11:00,800 --> 00:11:02,519
+since it lets you know how you should be
+так как позволяет вам знать, как вам следует
+
+365
+00:11:02,519 --> 00:11:04,639
+positioning now you can use other attack
+позиционироваться, теперь вы можете использовать другие
+
+366
+00:11:04,639 --> 00:11:06,480
+move binds but that's outside the scope
+привязки к атаке и движениям  но это выходит за рамки
+
+367
+00:11:06,480 --> 00:11:07,800
+of this guide we've created more
+данного руководства, мы создали более
+
+368
+00:11:07,800 --> 00:11:09,680
+in-depth guides on that for now just
+подробные руководства по этому вопросу, а пока просто
+
+369
+00:11:09,680 --> 00:11:11,639
+enable those settings and use the A
+включите эти настройки и используйте
+
+370
+00:11:11,639 --> 00:11:13,399
+hotkey and then left click to send
+Горячая клавиша, а затем щелчок левой кнопкой мыши, чтобы отправлять
+
+371
+00:11:13,399 --> 00:11:15,000
+attack move commands if you're new to
+команды на атаку и движение. Если вы новичок в
+
+372
+00:11:15,000 --> 00:11:16,720
+this mechanic the next setting you need
+этой механике, следующая настройка, о которой вам нужно
+
+373
+00:11:16,720 --> 00:11:18,880
+to be aware of is quick casting this
+знать, — это быстрое произнесение заклинаний. Это
+
+374
+00:11:18,880 --> 00:11:20,760
+gives you such a huge Advantage as it
+дает вам огромное преимущество, так как
+
+375
+00:11:20,760 --> 00:11:22,560
+makes you cast your spells way faster
+позволяет вам произносить заклинания гораздо быстрее,
+
+376
+00:11:22,560 --> 00:11:24,079
+since as soon as you press your spell
+поскольку как только вы начнете  как только вы нажмете
+
+377
+00:11:24,079 --> 00:11:26,440
+key it's going to immediately fire now I
+клавишу заклинания, оно немедленно сработает. Теперь я
+
+378
+00:11:26,440 --> 00:11:27,800
+know what you're thinking well then I
+знаю, о чем вы думаете. Ну, тогда я
+
+379
+00:11:27,800 --> 00:11:29,760
+can't actually aim my ability here's the
+не смогу нацелить свою способность. Вот
+
+380
+00:11:29,760 --> 00:11:31,320
+trick that players use they bind their
+трюк, который используют игроки. Они привязывают свое
+
+381
+00:11:31,320 --> 00:11:33,639
+normal cast to shift plus that ability
+обычное заклинание к Shift плюс эта способность,
+
+382
+00:11:33,639 --> 00:11:36,440
+so shift plus Q shift plus W shift plus
+поэтому Shift плюс Q Shift.  плюс W shift плюс
+
+383
+00:11:36,440 --> 00:11:38,880
+e shift plus r this way if you need to
+e shift плюс r таким образом, если вам нужно
+
+384
+00:11:38,880 --> 00:11:40,320
+combo fast you can just press your
+быстро комбо, вы можете просто нажимать свои
+
+385
+00:11:40,320 --> 00:11:42,079
+abilities as normal but if you need to
+способности как обычно, но если вам нужно
+
+386
+00:11:42,079 --> 00:11:44,079
+line up a skill shot you can press shift
+выстроить искусный выстрел, вы можете нажать shift
+
+387
+00:11:44,079 --> 00:11:45,920
+and the ability to aim it you'll also
+и возможность прицелиться, вам
+
+388
+00:11:45,920 --> 00:11:48,240
+need this backup shift bind for warding
+это также понадобится  резервная привязка Shift для варда,
+
+389
+00:11:48,240 --> 00:11:49,639
+this is because you need the aim
+это потому, что вам нужно, чтобы
+
+390
+00:11:49,639 --> 00:11:51,279
+indicator to know when it's being placed
+индикатор прицеливания знал, когда он помещается
+
+391
+00:11:51,279 --> 00:11:53,320
+in a brush since it will turn green and
+в куст, так как он станет зеленым, и
+
+392
+00:11:53,320 --> 00:11:55,000
+at the same time the circle is going to
+в то же время круг
+
+393
+00:11:55,000 --> 00:11:56,839
+let you know how far the ward sees so
+даст вам знать, как далеко видит вард, так что
+
+394
+00:11:56,839 --> 00:11:58,639
+you know you're actually covering choke
+вы будете знать, что вы  на самом деле вы прикрываете узкие
+
+395
+00:11:58,639 --> 00:12:00,079
+points and and the final mechanic you
+места, и последняя механика, которая вам
+
+396
+00:12:00,079 --> 00:12:02,160
+need is to unlock your camera for a lot
+нужна, это разблокировать камеру, для многих
+
+397
+00:12:02,160 --> 00:12:03,839
+of players this can feel awkward but it
+игроков это может показаться неудобным, но это
+
+398
+00:12:03,839 --> 00:12:05,480
+gives you a big advantage since you can
+дает вам большое  преимущество в том, что вы можете
+
+399
+00:12:05,480 --> 00:12:07,000
+pan your camera to see way more
+панорамировать камеру, чтобы видеть гораздо больше
+
+400
+00:12:07,000 --> 00:12:08,760
+information when you're fighting while
+информации во время боя, и
+
+401
+00:12:08,760 --> 00:12:10,160
+at the same time it lets you see more
+в то же время это позволяет вам видеть больше
+
+402
+00:12:10,160 --> 00:12:11,720
+angles you can expect enemies to come
+углов, с которых вы можете ожидать появления врагов,
+
+403
+00:12:11,720 --> 00:12:13,639
+from so you can react sooner there are
+так что вы можете реагировать быстрее. Есть
+
+404
+00:12:13,639 --> 00:12:15,199
+some really simple exercises to get
+несколько действительно простых упражнений, которые помогут
+
+405
+00:12:15,199 --> 00:12:17,079
+yourself used to this mechanic head into
+вам привыкнуть.  к этой механике перейдите в
+
+406
+00:12:17,079 --> 00:12:18,680
+practice Mode start by nudging your
+режим практики. Начните с перемещения
+
+407
+00:12:18,680 --> 00:12:20,240
+camera so that your Champion always
+камеры так, чтобы ваш Чемпион всегда
+
+408
+00:12:20,240 --> 00:12:22,079
+stays on the edge of your screen after
+оставался на краю экрана. После
+
+409
+00:12:22,079 --> 00:12:23,760
+this practice moving in straight lines
+этого практикуйтесь, двигаясь по прямым линиям,
+
+410
+00:12:23,760 --> 00:12:24,959
+where you click around the center of
+где вы щелкаете по центру
+
+411
+00:12:24,959 --> 00:12:26,639
+your screen and Edge your camera to keep
+экрана и перемещаете камеру, чтобы
+
+412
+00:12:26,639 --> 00:12:28,399
+your Champion close to the edge once you
+ваш Чемпион всегда оставался на краю экрана.  край, как только вы
+
+413
+00:12:28,399 --> 00:12:30,240
+master this head into the river again
+освоите это, снова отправляйтесь в реку,
+
+414
+00:12:30,240 --> 00:12:31,680
+you're right clicking around the halfway
+щелкните правой кнопкой мыши примерно
+
+415
+00:12:31,680 --> 00:12:33,000
+point of your screen then Ned your
+посередине экрана, затем
+
+416
+00:12:33,000 --> 00:12:35,040
+camera up spam right click then left
+поднимите камеру, щелкните правой кнопкой мыши, затем щелкните
+
+417
+00:12:35,040 --> 00:12:36,720
+spam right click and repeat you then
+левой кнопкой мыши и повторите, затем вы
+
+418
+00:12:36,720 --> 00:12:38,240
+want to go back down the river the other
+хотите вернуться вниз по реке в другую
+
+419
+00:12:38,240 --> 00:12:40,240
+way nudge your camera down spam right
+сторону  подтолкните камеру вниз, нажмите правую
+
+420
+00:12:40,240 --> 00:12:42,079
+click then right spam right click and
+кнопку мыши, затем правую кнопку мыши, нажмите правую кнопку мыши и
+
+421
+00:12:42,079 --> 00:12:43,760
+repeat by the way if you're interested
+повторите. Кстати, если вам интересно
+
+422
+00:12:43,760 --> 00:12:45,199
+in learning more about mechanics and
+узнать больше о механике,
+
+423
+00:12:45,199 --> 00:12:46,959
+settings and hotkeys then I highly
+настройках и горячих клавишах, то я настоятельно
+
+424
+00:12:46,959 --> 00:12:48,839
+recommend these two Great Courses on our
+рекомендую эти два замечательных курса на нашем
+
+425
+00:12:48,839 --> 00:12:50,399
+website great now let's talk about what
+сайте. Отлично, теперь давайте поговорим о том, что
+
+426
+00:12:50,399 --> 00:12:51,959
+you need to know in the mid to like game
+вам нужно.  знать в середине, чтобы полюбить игру,
+
+427
+00:12:51,959 --> 00:12:53,560
+the mid game starts around 14 minutes
+середина игры начинается примерно на 14 минуте,
+
+428
+00:12:53,560 --> 00:12:54,920
+when turret plates fall that's when
+когда падают пластины башни, это  когда
+
+429
+00:12:54,920 --> 00:12:56,320
+players can start moving around the map
+игроки могут начать больше перемещаться по карте,
+
+430
+00:12:56,320 --> 00:12:58,519
+more and the L game is usually around 25
+а игра L обычно длится около
+
+431
+00:12:58,519 --> 00:12:59,959
+to 30 minutes when things like dragon
+25-30 минут, когда такие вещи, как
+
+432
+00:12:59,959 --> 00:13:01,800
+soul become a threat for a team to take
+душа дракона, становятся угрозой для команды,
+
+433
+00:13:01,800 --> 00:13:03,480
+so firstly during this time in the game
+поэтому в первую очередь в это время игры
+
+434
+00:13:03,480 --> 00:13:05,199
+you should be aware of a concept called
+вы должны знать о концепции, называемой
+
+435
+00:13:05,199 --> 00:13:07,240
+gold inflation in League having early
+золотом.  Инфляция в Лиге, где раннее
+
+436
+00:13:07,240 --> 00:13:08,800
+gold leads are much more impactful
+преимущество по золоту гораздо более значимо,
+
+437
+00:13:08,800 --> 00:13:10,160
+because they represent a larger
+поскольку оно составляет больший
+
+438
+00:13:10,160 --> 00:13:12,199
+percentage of the total gold in the game
+процент от общего количества золота в игре,
+
+439
+00:13:12,199 --> 00:13:14,320
+for example if someone has 6K gold and
+например, если у кого-то 6 тыс. золота, а у
+
+440
+00:13:14,320 --> 00:13:16,880
+you have 3K gold for a 3K gold lead on
+вас 3 тыс. золота, то на 10-й минуте преимущество над вами составляет 3 тыс. золота.
+
+441
+00:13:16,880 --> 00:13:18,360
+you at 10 minutes well that means
+Это означает, что
+
+442
+00:13:18,360 --> 00:13:20,800
+they're 100% more powerful than you are
+они  на 100% сильнее вас
+
+443
+00:13:20,800 --> 00:13:22,320
+in terms of items but if that same
+с точки зрения предметов, но если у того же
+
+444
+00:13:22,320 --> 00:13:24,639
+person has a 3K gold Advantage at 25
+человека преимущество в 3 тыс. золота на 25
+
+445
+00:13:24,639 --> 00:13:26,720
+minutes when you have 13k gold and they
+минуте, когда у вас 13 тыс. золота, а у него
+
+446
+00:13:26,720 --> 00:13:29,120
+have 16k gold well that's only around
+16 тыс. золота, то это всего лишь на
+
+447
+00:13:29,120 --> 00:13:31,240
+16% more powerful than you and it goes
+16% сильнее вас, и это
+
+448
+00:13:31,240 --> 00:13:32,920
+without saying when everyone is full
+само собой разумеется.  говоря, когда все полностью
+
+449
+00:13:32,920 --> 00:13:34,760
+build then gold leads don't even matter
+собраны, то преимущество по золоту в этот момент даже не имеет значения,
+
+450
+00:13:34,760 --> 00:13:36,519
+at that point since you can't convert
+так как вы не можете конвертировать
+
+451
+00:13:36,519 --> 00:13:38,560
+that extra gold into items long story
+это дополнительное золото в предметы,
+
+452
+00:13:38,560 --> 00:13:40,399
+short when you're behind early on just
+короче говоря, когда вы отстаете на ранней стадии, просто
+
+453
+00:13:40,399 --> 00:13:42,160
+by delaying the game even if you don't
+задерживая игру, даже если вы ее не
+
+454
+00:13:42,160 --> 00:13:44,079
+shorten the gold lead or even if it gets
+сокращаете.  золото свинца или даже если это
+
+455
+00:13:44,079 --> 00:13:45,760
+worse it's actually still an improvement
+ухудшится, это на самом деле  все еще улучшение
+
+456
+00:13:45,760 --> 00:13:48,160
+due to how gold inflation works now the
+из-за того, как работает инфляция золота сейчас
+
+457
+00:13:48,160 --> 00:13:49,639
+next thing you're about to learn is the
+следующее, что вы собираетесь изучить, это
+
+458
+00:13:49,639 --> 00:13:51,959
+foundational concept to all other macro
+основополагающая концепция для всех других
+
+459
+00:13:51,959 --> 00:13:54,320
+Concepts in League number advantages the
+макроконцепций в Лиге числовые преимущества
+
+460
+00:13:54,320 --> 00:13:55,600
+vast majority of all fights you will
+подавляющее большинство всех боев, которые у вас
+
+461
+00:13:55,600 --> 00:13:56,959
+have in League of Legends won't be
+будут в Лиге Легенд, не будут
+
+462
+00:13:56,959 --> 00:13:58,759
+decided by gold leads mechanics or the
+решены  по механике золотого лидерства или по
+
+463
+00:13:58,759 --> 00:14:00,920
+champ ion types it's going to be decided
+типу чемпиона, все будет решаться
+
+464
+00:14:00,920 --> 00:14:02,920
+by which team has more players at that
+по тому, в какой команде больше игроков в этом
+
+465
+00:14:02,920 --> 00:14:04,480
+fight and most players really struggle
+бою, и большинство игроков действительно испытывают трудности
+
+466
+00:14:04,480 --> 00:14:05,839
+with map awareness and so they're
+с пониманием карты, и поэтому они
+
+467
+00:14:05,839 --> 00:14:07,320
+constantly taking fights where they're
+постоянно вступают в бои, где их
+
+468
+00:14:07,320 --> 00:14:09,240
+outnumbered Without Really realizing it
+превосходят численностью, даже не осознавая, что это
+
+469
+00:14:09,240 --> 00:14:10,560
+the solution to this is simple once
+решение.  Это просто, как только
+
+470
+00:14:10,560 --> 00:14:12,399
+turret plates fall at 14 minutes and the
+на 14 минуте упадут пластины турелей и
+
+471
+00:14:12,399 --> 00:14:13,959
+mid game hits you need to be looking at
+наступит середина игры, вам нужно будет много смотреть на
+
+472
+00:14:13,959 --> 00:14:16,000
+the map a lot the goal is to identify
+карту. Цель состоит в том, чтобы определить,
+
+473
+00:14:16,000 --> 00:14:17,680
+what teammates you have nearby and what
+какие товарищи по команде находятся рядом с вами и каких
+
+474
+00:14:17,680 --> 00:14:19,279
+enemies you can see on the map if you
+врагов вы можете видеть на карте, если вы
+
+475
+00:14:19,279 --> 00:14:20,920
+can only see two enemies and three other
+можете видеть только их.  два врага и трое других
+
+476
+00:14:20,920 --> 00:14:22,519
+are missing well play it safe if your
+отсутствуют, ну что ж, играйте наверняка, если ваша
+
+477
+00:14:22,519 --> 00:14:24,279
+team is grouped do five and you see one
+команда сгруппирована, сделайте пять и вы видите одного
+
+478
+00:14:24,279 --> 00:14:26,079
+enemy in the sidelane awesome look to
+врага на боковой линии, потрясающе выглядите, чтобы
+
+479
+00:14:26,079 --> 00:14:27,320
+fight you know you have the number
+сражаться, вы знаете, что у вас численное
+
+480
+00:14:27,320 --> 00:14:29,440
+Advantage literally every macro tactic
+преимущество, буквально каждая макро-тактика, которую
+
+481
+00:14:29,440 --> 00:14:30,800
+you're going to learn when you're more
+вы собираетесь изучить, когда вы  вы более
+
+482
+00:14:30,800 --> 00:14:32,399
+experienced just Builds on this one
+опытны, просто строится на этом одном
+
+483
+00:14:32,399 --> 00:14:33,920
+principle so it's best to focus on
+принципе, поэтому лучше сосредоточиться  научитесь сначала
+
+484
+00:14:33,920 --> 00:14:35,360
+getting good at this first the next
+хорошо с этим справляться, следующее, что
+
+485
+00:14:35,360 --> 00:14:36,800
+thing to be aware of during the mid to
+нужно знать в середине и
+
+486
+00:14:36,800 --> 00:14:38,800
+late game is the pressure rule the basic
+конце игры, это правило давления. Основная
+
+487
+00:14:38,800 --> 00:14:40,399
+concept of pressure is defined as when
+концепция давления определяется так: когда
+
+488
+00:14:40,399 --> 00:14:41,839
+someone on your team is threatening to
+кто-то в вашей команде угрожает
+
+489
+00:14:41,839 --> 00:14:43,560
+damage a tower this is because to do
+повредить башню, это происходит потому, что для
+
+490
+00:14:43,560 --> 00:14:44,959
+this they're also pushing a wave into
+этого они  Они также толкают волну в
+
+491
+00:14:44,959 --> 00:14:46,560
+the tower so they're threatening two
+башню, поэтому они угрожают двумя
+
+492
+00:14:46,560 --> 00:14:48,360
+things one to just straight up destroy
+вещами: во-первых, просто уничтожить
+
+493
+00:14:48,360 --> 00:14:50,079
+the tower which can be worth a lot of
+башню, что может стоить много
+
+494
+00:14:50,079 --> 00:14:52,199
+gold and two for the wave they push to
+золота, и, во-вторых, волна, которую они толкают, а
+
+495
+00:14:52,199 --> 00:14:54,120
+then die to the tower this is a loss of
+затем умирают в башне, это потеря
+
+496
+00:14:54,120 --> 00:14:56,120
+golden experience for the enemy team if
+золота.  опыт для вражеской команды, если
+
+497
+00:14:56,120 --> 00:14:57,800
+no one comes to pick up that wave in the
+никто не приходит, чтобы подобрать волну в
+
+498
+00:14:57,800 --> 00:14:59,199
+mid to late game simply look at the the
+середине или конце игры, просто посмотрите на
+
+499
+00:14:59,199 --> 00:15:00,839
+map and identify if your team has
+карту и определите, испытывает ли ваша команда
+
+500
+00:15:00,839 --> 00:15:02,560
+pressure when they do then you need to
+давление, когда это происходит, тогда вам
+
+501
+00:15:02,560 --> 00:15:04,720
+be pressuring too in some way that can
+тоже нужно оказывать давление каким-то образом, что может
+
+502
+00:15:04,720 --> 00:15:06,160
+mean grouping with them to pressure the
+означать группировку  с ними, чтобы оказать давление на одну и
+
+503
+00:15:06,160 --> 00:15:07,880
+same Tower it can mean pressuring a
+ту же Башню, это может означать давление на
+
+504
+00:15:07,880 --> 00:15:09,680
+completely separate Tower or it can mean
+совершенно отдельную Башню или это может означать
+
+505
+00:15:09,680 --> 00:15:11,680
+looking to take a neutral objective you
+стремление захватить нейтральную цель, вы
+
+506
+00:15:11,680 --> 00:15:13,720
+do this for two reasons firstly it's
+делаете это по двум причинам, во-первых,
+
+507
+00:15:13,720 --> 00:15:15,800
+incredibly hard to defend when an entire
+невероятно трудно защищаться, когда вся
+
+508
+00:15:15,800 --> 00:15:17,480
+team coordinates pressure at the same
+команда координирует давление
+
+509
+00:15:17,480 --> 00:15:19,199
+time it just works the majority of the
+одновременно, это просто работает  большую часть
+
+510
+00:15:19,199 --> 00:15:21,440
+time in Solo Q secondly when your team
+времени в Solo Q, во-вторых, когда ваша команда
+
+511
+00:15:21,440 --> 00:15:23,120
+is pressuring they're often going to get
+оказывает давление, они часто будут получать
+
+512
+00:15:23,120 --> 00:15:25,040
+some sort of Defense from the enemy team
+какую-то защиту от вражеской команды,
+
+513
+00:15:25,040 --> 00:15:26,680
+so if you don't match their pressure and
+так что если вы  не поддавайтесь их давлению и
+
+514
+00:15:26,680 --> 00:15:28,399
+you go off to farm safely well you're
+спокойно отправляйтесь фармить, ну, вы,
+
+515
+00:15:28,399 --> 00:15:30,000
+likely leaving your team down in numbers
+скорее всего, оставите свою команду в меньшинстве
+
+516
+00:15:30,000 --> 00:15:31,920
+for that upcoming fight the inverse of
+для предстоящего боя, обратное
+
+517
+00:15:31,920 --> 00:15:33,839
+this is also true so when your team has
+также верно, поэтому, когда на вашу команду
+
+518
+00:15:33,839 --> 00:15:35,560
+no pressure well that's your time to
+не оказывается давления, то самое время
+
+519
+00:15:35,560 --> 00:15:37,399
+focus on playing defensive safe and look
+сосредоточиться на игре.  Защитная безопасность и старайтесь
+
+520
+00:15:37,399 --> 00:15:39,120
+to passively farm rather than pressure
+пассивно фармить, а не давить
+
+521
+00:15:39,120 --> 00:15:40,759
+yourself the next mid to late game rule
+на себя. Следующее правило игры в середине и конце
+
+522
+00:15:40,759 --> 00:15:43,079
+to follow is the empty Lane rule before
+— правило пустой линии. Прежде чем
+
+523
+00:15:43,079 --> 00:15:44,399
+you do anything you want to pay
+что-то делать, обратите
+
+524
+00:15:44,399 --> 00:15:46,120
+attention to if there's empty lanes and
+внимание на то, есть ли пустые линии, и
+
+525
+00:15:46,120 --> 00:15:47,759
+push them out before you really do much
+вытесните их, прежде чем что-то делать.
+
+526
+00:15:47,759 --> 00:15:48,959
+remember what you just learned about
+Помните, что  вы только что узнали о
+
+527
+00:15:48,959 --> 00:15:50,639
+pressure by pushing waves you create
+давлении, толкая волны, вы создаете
+
+528
+00:15:50,639 --> 00:15:52,519
+pressure this will set up two simple but
+давление, это установит две простые, но
+
+529
+00:15:52,519 --> 00:15:54,399
+effective tactics either no one from the
+эффективные тактики: либо никто из
+
+530
+00:15:54,399 --> 00:15:56,240
+enemy team defends that push which means
+вражеской команды не защищает этот натиск, что означает
+
+531
+00:15:56,240 --> 00:15:58,360
+tons of free gold and experience for you
+для вас тонны бесплатного золота и опыта,
+
+532
+00:15:58,360 --> 00:16:00,079
+or by pushing you bait a Defender from
+либо, толкая, вы приманиваете Защитника у
+
+533
+00:16:00,079 --> 00:16:02,079
+the enemy team to respond to it at which
+врага  команда должна отреагировать на это, и в этот
+
+534
+00:16:02,079 --> 00:16:03,800
+point you can rotate off while the enemy
+момент вы можете отойти, пока враг
+
+535
+00:16:03,800 --> 00:16:05,319
+is busy with the wave to look for a
+занят волной, чтобы поискать
+
+536
+00:16:05,319 --> 00:16:07,120
+number Advantage fight elsewhere if you
+численное преимущество, сражайтесь в другом месте, если вы
+
+537
+00:16:07,120 --> 00:16:08,959
+just follow the following three things
+просто будете следовать следующим трем вещам:
+
+538
+00:16:08,959 --> 00:16:10,759
+number advantages the pressure rule and
+численное преимущество, правило давления и
+
+539
+00:16:10,759 --> 00:16:12,240
+the empty Lane rule you're going to be
+правило пустой линии, куда вы идете  быть
+
+540
+00:16:12,240 --> 00:16:14,160
+ahead of like 90% of the player base as
+впереди 90% базы игроков, как
+
+541
+00:16:14,160 --> 00:16:15,920
+a new player also I quickly want to
+новый игрок. Я также хочу быстро
+
+542
+00:16:15,920 --> 00:16:17,800
+mention a common trap newer players fall
+упомянуть о распространенной ловушке, в которую попадают новые игроки.
+
+543
+00:16:17,800 --> 00:16:19,399
+for in the mid delay game they try to
+в игре с задержкой в ​​середине они пытаются
+
+544
+00:16:19,399 --> 00:16:21,399
+take Inhibitors before taking Baron
+взять Ингибиторы до того, как взять Барона.
+
+545
+00:16:21,399 --> 00:16:22,839
+League of Legends isn't designed for
+League of Legends не рассчитана на
+
+546
+00:16:22,839 --> 00:16:24,319
+this to happen it will be really easy
+это, так что
+
+547
+00:16:24,319 --> 00:16:26,120
+for one or two Champions on the enemy
+одному или двум Чемпионам из вражеской
+
+548
+00:16:26,120 --> 00:16:27,759
+team just to clear that wave in an
+команды будет очень легко просто зачистить эту волну в одно
+
+549
+00:16:27,759 --> 00:16:29,279
+instant and defend the tower you'll
+мгновение и защитить  башня, вы
+
+550
+00:16:29,279 --> 00:16:30,920
+waste a lot of time getting not a lot
+потратите много времени, не
+
+551
+00:16:30,920 --> 00:16:32,880
+done while being very overextended at
+сделав ничего важного, будучи слишком растянутым на
+
+552
+00:16:32,880 --> 00:16:34,360
+the enemy's base it's the most common
+базе противника, это наиболее распространенный
+
+553
+00:16:34,360 --> 00:16:36,399
+way leads are thrown instead league is
+способ передачи зацепок, вместо этого лига
+
+554
+00:16:36,399 --> 00:16:38,199
+designed for you to take Baron first and
+разработана для того, чтобы вы сначала взяли Барона, а
+
+555
+00:16:38,199 --> 00:16:40,120
+then use that Baron buff to Siege Towers
+затем использовали его усиление для осады башен, чтобы
+
+556
+00:16:40,120 --> 00:16:41,759
+to then take the Inhibitors you want to
+затем возьмите Ингибиторы, которые вы хотите
+
+557
+00:16:41,759 --> 00:16:43,440
+set up your Baron takes with two simple
+настроить, чтобы ваш Барон выполнял два простых
+
+558
+00:16:43,440 --> 00:16:45,199
+Steps step one push out mid lane
+шага. Шаг первый. Выдвиньте среднюю линию,
+
+559
+00:16:45,199 --> 00:16:46,720
+remember it creates pressure and pins
+помните, что это создает давление и
+
+560
+00:16:46,720 --> 00:16:48,240
+down enemies defending it this will give
+прижимает врагов, защищающих ее. Это даст
+
+561
+00:16:48,240 --> 00:16:49,839
+you a timing window to go and get vision
+вам временное окно, чтобы пойти и получить
+
+562
+00:16:49,839 --> 00:16:51,759
+control around Baron this means using
+контроль над зрением вокруг Барона. Это означает, что вы можете использовать
+
+563
+00:16:51,759 --> 00:16:53,560
+sweepers and control Wards to clear the
+чистильщики и контрольные варды, чтобы очистить
+
+564
+00:16:53,560 --> 00:16:55,360
+enemy's Vision around Baron and then
+вражеское видение вокруг Барона, а затем
+
+565
+00:16:55,360 --> 00:16:56,959
+placing your own Vision deeper into the
+разместить свое собственное видение глубже в
+
+566
+00:16:56,959 --> 00:16:58,639
+enemy's jungle so you can see them early
+джунглях противника, чтобы вы могли увидеть их на ранней стадии,
+
+567
+00:16:58,639 --> 00:17:00,199
+on if they come to try and contest your
+если они попытаются оспорить вашего
+
+568
+00:17:00,199 --> 00:17:02,399
+Baron take step two is then starting the
+Барона. Шаг второй — начать с
+
+569
+00:17:02,399 --> 00:17:04,160
+baron if you pushed Mid First and
+Барона, если вы продвинулись в сторону Мида.  Первый и
+
+570
+00:17:04,160 --> 00:17:06,039
+established vision control the vast
+устоявшийся контроль зрения подавляющего
+
+571
+00:17:06,039 --> 00:17:07,439
+majority of the time you're going to get
+большинства  время вы собираетесь получить
+
+572
+00:17:07,439 --> 00:17:09,760
+Baron for free uncontested however if
+Барона бесплатно без сопротивления, однако, если
+
+573
+00:17:09,760 --> 00:17:11,439
+you see the enemy is moving to contest
+вы видите, что враг движется, чтобы оспорить
+
+574
+00:17:11,439 --> 00:17:12,919
+your Baron take then you want to stop
+ваш захват Барона, то вам следует прекратить
+
+575
+00:17:12,919 --> 00:17:14,640
+doing Baron and instead move to make a
+делать это и вместо этого пойти, чтобы
+
+576
+00:17:14,640 --> 00:17:16,199
+pick on them since you clear their
+выбрать его, так как вы сначала очистите их
+
+577
+00:17:16,199 --> 00:17:17,520
+Vision first they won't know you're
+Видение, они не будут  знайте, что вы
+
+578
+00:17:17,520 --> 00:17:19,480
+there making for easy kills those easy
+там, стремясь к легким убийствам, эти легкие
+
+579
+00:17:19,480 --> 00:17:21,160
+kills mean you have the number Advantage
+убийства означают, что у вас численное преимущество,
+
+580
+00:17:21,160 --> 00:17:22,799
+so you can just go back to taking Baron
+поэтому вы можете просто вернуться к взятию Барона
+
+581
+00:17:22,799 --> 00:17:25,160
+after and finally our last beginner tip
+после этого, и, наконец, наш последний совет для новичков
+
+582
+00:17:25,160 --> 00:17:26,919
+has to do with setting realistic
+касается установления реалистичных
+
+583
+00:17:26,919 --> 00:17:28,559
+expectations there's a reason why
+ожиданий, есть причина, по которой
+
+584
+00:17:28,559 --> 00:17:30,919
+players refer to grinding solo quue as
+игроки называют гринд соло  очередь, а
+
+585
+00:17:30,919 --> 00:17:33,440
+well a grind let's say you were bronze 4
+также гринд, допустим, вы были бронзой 4,
+
+586
+00:17:33,440 --> 00:17:35,640
+if you maintained a 55% win rate it
+если вы поддерживали 55%-ный процент побед, вам
+
+587
+00:17:35,640 --> 00:17:38,080
+would take you0 games on average to get
+в среднем потребовалось бы 0 игр, чтобы
+
+588
+00:17:38,080 --> 00:17:40,320
+to Silver 4 bronze has an average game
+достичь серебра 4, бронза имеет среднюю
+
+589
+00:17:40,320 --> 00:17:42,400
+duration of 30 minutes that means this
+продолжительность игры 30 минут, что означает, что
+
+590
+00:17:42,400 --> 00:17:44,480
+will take you 80 hours of playing and if
+вам потребуется 80 часов игры  и если
+
+591
+00:17:44,480 --> 00:17:46,640
+you played 3 hours a day every day it
+вы играете по 3 часа в день каждый день,
+
+592
+00:17:46,640 --> 00:17:48,679
+would still take you 27 days to get to
+вам все равно понадобится 27 дней, чтобы достичь уровня
+
+593
+00:17:48,679 --> 00:17:50,320
+Silver at the same time a very
+Silver. В то же время, вполне
+
+594
+00:17:50,320 --> 00:17:51,840
+reasonable expectation you should
+разумно ожидать,
+
+595
+00:17:51,840 --> 00:17:53,480
+develop is that around one out of three
+что примерно одна из трех сыгранных
+
+596
+00:17:53,480 --> 00:17:55,360
+of the games you play will be unwinable
+вами игр будет проигрышной.
+
+597
+00:17:55,360 --> 00:17:56,919
+you don't know which games those will be
+не знаю, какие это будут игры,
+
+598
+00:17:56,919 --> 00:17:58,400
+so you still have to be levelheaded and
+так что вам все равно придется  будьте уравновешены и
+
+599
+00:17:58,400 --> 00:17:59,919
+try your best best no matter how doomed
+старайтесь изо всех сил, независимо от того, насколько обреченными
+
+600
+00:17:59,919 --> 00:18:01,520
+the games feel and I know that losing
+кажутся игры, и я знаю, что проигрыш в
+
+601
+00:18:01,520 --> 00:18:03,280
+one in three games sounds like a lot
+одной из трех игр звучит как много, но
+
+602
+00:18:03,280 --> 00:18:05,720
+that would still mean you'd have a 66%
+это все равно будет означать, что у вас будет 66%
+
+603
+00:18:05,720 --> 00:18:07,480
+win rate which is incredibly high and
+побед, что невероятно много и
+
+604
+00:18:07,480 --> 00:18:09,320
+makes for a fast climb that's why it's
+обеспечивает быстрый подъем, который  почему
+
+605
+00:18:09,320 --> 00:18:10,799
+really important to have a healthy
+так важно иметь здоровый
+
+606
+00:18:10,799 --> 00:18:12,520
+long-term mentality when playing this
+долгосрочный настрой, играя в эту
+
+607
+00:18:12,520 --> 00:18:14,039
+game and try not to let the short-term
+игру, и постараться не позволять краткосрочным
+
+608
+00:18:14,039 --> 00:18:15,720
+losses mean too much to you and if you
+потерям значить для вас слишком много, и если вы
+
+609
+00:18:15,720 --> 00:18:17,400
+want to make that grind way easier then
+хотите сделать этот процесс намного проще, то
+
+610
+00:18:17,400 --> 00:18:19,520
+you need skillcap tocom we have
+вам нужен skillcap tocom у нас есть
+
+611
+00:18:19,520 --> 00:18:21,240
+worldclass courses you can take right
+курсы мирового класса  вы можете взять прямо
+
+612
+00:18:21,240 --> 00:18:23,520
+now to learn every role Top Lane jungle
+сейчас, чтобы изучить каждую роль Верхняя линия джунгли
+
+613
+00:18:23,520 --> 00:18:25,559
+mid lane 80 carry support we got you
+средняя линия 80 поддержка керри мы вас
+
+614
+00:18:25,559 --> 00:18:27,039
+covered you then combine these with our
+охватили вы затем объедините это с нашими
+
+615
+00:18:27,039 --> 00:18:28,960
+courses on the essential skills you need
+курсами по основным навыкам, которые вам нужны
+
+616
+00:18:28,960 --> 00:18:30,880
+macro Wave Control trading settings and
+макро Wave Control торговые настройки и
+
+617
+00:18:30,880 --> 00:18:33,320
+hotkeys csing Vision mechanics low ELO
+горячие клавиши csing Vision механика низкий ELO
+
+618
+00:18:33,320 --> 00:18:35,400
+mistakes the list goes on then head on
+ошибки список можно продолжать  затем отправляйтесь
+
+619
+00:18:35,400 --> 00:18:37,240
+over to our Smurf commentaries select
+к нашим комментариям Smurf, выберите
+
+620
+00:18:37,240 --> 00:18:39,080
+your Champion to watch live commentaries
+своего Чемпиона, чтобы посмотреть прямые трансляции
+
+621
+00:18:39,080 --> 00:18:40,840
+from Challenger experts teaching you how
+от экспертов Challenger, которые научат вас, как
+
+622
+00:18:40,840 --> 00:18:42,320
+to carry out of the exact rank you're
+занять именно то место, на котором вы
+
+623
+00:18:42,320 --> 00:18:44,159
+stuck in you can try all of this out
+застряли. Вы можете попробовать все это
+
+624
+00:18:44,159 --> 00:18:45,799
+completely risk-free since if you don't
+совершенно без риска, так как если вы этого не сделаете,  t
+
+625
+00:18:45,799 --> 00:18:47,799
+rank up while actively using skill cap
+повышайте свой ранг, активно используя предел навыков,
+
+626
+00:18:47,799 --> 00:18:49,480
+you'll get your money back no questions
+вы получите свои деньги обратно нет  вопросы
+
+627
+00:18:49,480 --> 00:18:51,200
+asked you can unlock all of this right
+заданы вы можете разблокировать все это прямо
+
+628
+00:18:51,200 --> 00:18:52,440
+now through the discount you can only
+сейчас с помощью скидки, которую вы можете
+
+629
+00:18:52,440 --> 00:18:53,840
+get from the link below so what are you
+получить только по ссылке ниже, так чего же вы
+
+630
+00:18:53,840 --> 00:18:55,080
+waiting for click the link in the
+ждете? Нажмите на ссылку в
+
+631
+00:18:55,080 --> 00:18:56,480
+description below to get the rank you've
+описании ниже, чтобы получить ранг, который вы
+
+632
+00:18:56,480 --> 00:18:58,000
+always wanted all right and that will do
+всегда хотели, и это сделает
+
+633
+00:18:58,000 --> 00:18:59,760
+it for this one we here at skillcap want
+это  на этот раз мы здесь, в skillcap, хотим
+
+634
+00:18:59,760 --> 00:19:01,159
+to thank you for watching and we'll
+поблагодарить вас за просмотр, и
+
+635
+00:19:01,159 --> 00:19:05,080
+catch you in the next one
+увидимся в следующем выпуске
+
